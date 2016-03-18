@@ -35,74 +35,135 @@
 			</nav>
 		</header>
 		<div id="content" role="page content">
-			<div class="row">
+			<div class="row category-informatica">
 				<div class="col-md-12">
 					<h2>Informática</h2>
 					<a href="#" title="Ver mais +" class="btn btn-xs btn-default"><span class="glyphicon glyphicon-plus"></span> Ver mais anúncios</a>
 				</div>
-				<ul class="ads">
-					<li class="col-md-2">
-						<a class="content" href="http://madeira.xyz/anuncio/3">
-							<h2>Kingston SSDNowV300</h2>							
-							<img src="http://madeira.xyz/public/media/anuncio-3-1.png" alt="Kingston SSDNowV300" />
-							<p class="price">
-								Preço: <span>54 €<span>
-							</p>
-							<time>2016-02-17 15:19:30</time>
-						</a>
-					</li>
-					<li class="col-md-2">
-						<a class="content" href="http://madeira.xyz/anuncio/1">
-							<h2>Samsung 850 EVO - SSD</h2>							
-							<img src="http://madeira.xyz/public/media/anuncio-1.png" alt="Samsung 850 EVO - SSD" />
-							<p class="price">
-								Preço: <span>70 €<span>
-							</p>
-							<time>2016-02-17 10:05:00</time>
-						</a>
-					</li>
-					<li class="col-md-2">
-						<a class="content" href="http://madeira.xyz/anuncio/2">
-							<h2>Ram memory 8GB kit, (2 x 4GB)</h2>							
-							<img src="http://madeira.xyz/public/media/anuncio-2.png" alt="Ram memory 8GB kit, (2 x 4GB)" />			
-							<p class="price">
-								Preço: <span>82 €<span>
-							</p>			
-							<time>2016-02-17 10:05:00</time>
-						</a>
-					</li>
-					<li class="col-md-2">
-						<a class="content" href="http://madeira.xyz/anuncio/3">
-							<h2>Kingston SSDNowV300</h2>							
-							<img src="http://madeira.xyz/public/media/anuncio-3-1.png" alt="Kingston SSDNowV300" />
-							<p class="price">
-								Preço: <span>54 €<span>
-							</p>
-							<time>2016-02-17 15:19:30</time>
-						</a>
-					</li>
-					<li class="col-md-2">
-						<a class="content" href="http://madeira.xyz/anuncio/1">
-							<h2>Samsung 850 EVO - SSD</h2>							
-							<img src="http://madeira.xyz/public/media/anuncio-1.png" alt="Samsung 850 EVO - SSD" />
-							<p class="price">
-								Preço: <span>70 €<span>
-							</p>
-							<time>2016-02-17 10:05:00</time>
-						</a>
-					</li>
-					<li class="col-md-2">
-						<a class="content" href="http://madeira.xyz/anuncio/2">
-							<h2>Ram memory 8GB kit, (2 x 4GB)</h2>							
-							<img src="http://madeira.xyz/public/media/anuncio-2.png" alt="Ram memory 8GB kit, (2 x 4GB)" />			
-							<p class="price">
-								Preço: <span>82 €<span>
-							</p>			
-							<time>2016-02-17 10:05:00</time>
-						</a>
-					</li>
-				</ul>
+				<div class="col-md-12 ads-wrapper">
+					<ul class="ads">
+						<li class="col-md-2">
+							<a class="content" href="http://madeira.xyz/anuncio/3">
+								<h2>Kingston SSDNowV300</h2>							
+								<img src="http://madeira.xyz/public/media/anuncio-3-1.png" alt="Kingston SSDNowV300" />
+								<p class="price">
+									Preço: <span>54 €<span>
+								</p>
+							</a>
+						</li>
+						<li class="col-md-2">
+							<a class="content" href="http://madeira.xyz/anuncio/1">
+								<h2>Samsung 850 EVO - SSD</h2>							
+								<img src="http://madeira.xyz/public/media/anuncio-1.png" alt="Samsung 850 EVO - SSD" />
+								<p class="price">
+									Preço: <span>70 €<span>
+								</p>
+							</a>
+						</li>
+						<li class="col-md-2">
+							<a class="content" href="http://madeira.xyz/anuncio/2">
+								<h2>Ram memory 8GB kit, (2 x 4GB)</h2>							
+								<img src="http://madeira.xyz/public/media/anuncio-2.png" alt="Ram memory 8GB kit, (2 x 4GB)" />			
+								<p class="price">
+									Preço: <span>82 €<span>
+								</p>			
+							</a>
+						</li>
+						<li class="col-md-2">
+							<a class="content" href="http://madeira.xyz/anuncio/3">
+								<h2>Kingston SSDNowV300</h2>							
+								<img src="http://madeira.xyz/public/media/anuncio-3-1.png" alt="Kingston SSDNowV300" />
+								<p class="price">
+									Preço: <span>54 €<span>
+								</p>
+							</a>
+						</li>
+						<li class="col-md-2">
+							<a class="content" href="http://madeira.xyz/anuncio/1">
+								<h2>Samsung 850 EVO - SSD</h2>							
+								<img src="http://madeira.xyz/public/media/anuncio-1.png" alt="Samsung 850 EVO - SSD" />
+								<p class="price">
+									Preço: <span>70 €<span>
+								</p>
+							</a>
+						</li>
+						<li class="col-md-2">
+							<a class="content" href="http://madeira.xyz/anuncio/2">
+								<h2>Ram memory 8GB kit, (2 x 4GB)</h2>							
+								<img src="http://madeira.xyz/public/media/anuncio-2.png" alt="Ram memory 8GB kit, (2 x 4GB)" />			
+								<p class="price">
+									Preço: <span>82 €<span>
+								</p>			
+							</a>
+						</li>
+					</ul>
+				</div>
 			</div>
+			
+			<div class="row category-auto">
+				<div class="col-md-12">
+					<h2>Automóveis</h2>
+					<a href="#" title="Ver mais +" class="btn btn-xs btn-default"><span class="glyphicon glyphicon-plus"></span> Ver mais anúncios</a>
+				</div>
+				<div class="col-md-12 ads-wrapper">
+					<ul class="ads">
+						<li class="col-md-2">
+							<a class="content" href="http://madeira.xyz/anuncio/3">
+								<h2>Kingston SSDNowV300</h2>							
+								<img src="http://madeira.xyz/public/media/anuncio-3-1.png" alt="Kingston SSDNowV300" />
+								<p class="price">
+									Preço: <span>54 €<span>
+								</p>
+							</a>
+						</li>
+						<li class="col-md-2">
+							<a class="content" href="http://madeira.xyz/anuncio/1">
+								<h2>Samsung 850 EVO - SSD</h2>							
+								<img src="http://madeira.xyz/public/media/anuncio-1.png" alt="Samsung 850 EVO - SSD" />
+								<p class="price">
+									Preço: <span>70 €<span>
+								</p>
+							</a>
+						</li>
+						<li class="col-md-2">
+							<a class="content" href="http://madeira.xyz/anuncio/2">
+								<h2>Ram memory 8GB kit, (2 x 4GB)</h2>							
+								<img src="http://madeira.xyz/public/media/anuncio-2.png" alt="Ram memory 8GB kit, (2 x 4GB)" />			
+								<p class="price">
+									Preço: <span>82 €<span>
+								</p>			
+							</a>
+						</li>
+						<li class="col-md-2">
+							<a class="content" href="http://madeira.xyz/anuncio/3">
+								<h2>Kingston SSDNowV300</h2>							
+								<img src="http://madeira.xyz/public/media/anuncio-3-1.png" alt="Kingston SSDNowV300" />
+								<p class="price">
+									Preço: <span>54 €<span>
+								</p>
+							</a>
+						</li>
+						<li class="col-md-2">
+							<a class="content" href="http://madeira.xyz/anuncio/1">
+								<h2>Samsung 850 EVO - SSD</h2>							
+								<img src="http://madeira.xyz/public/media/anuncio-1.png" alt="Samsung 850 EVO - SSD" />
+								<p class="price">
+									Preço: <span>70 €<span>
+								</p>
+							</a>
+						</li>
+						<li class="col-md-2">
+							<a class="content" href="http://madeira.xyz/anuncio/2">
+								<h2>Ram memory 8GB kit, (2 x 4GB)</h2>							
+								<img src="http://madeira.xyz/public/media/anuncio-2.png" alt="Ram memory 8GB kit, (2 x 4GB)" />			
+								<p class="price">
+									Preço: <span>82 €<span>
+								</p>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>			
 		</div>
 		<footer id="footer" class="row" role="footer">
 			<div class="col-md-12">

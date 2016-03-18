@@ -23,15 +23,15 @@ img { max-width: 100%; }
 #main-navigation ul li:last-child { 
 	margin-right: 0;
 }
-
-#content {
-	margin-top: 2em;
-	margin-bottom: 2em;
-}
-#footer {
+#footer { 
 	text-align: center;
+	margin-top: 2em;
+	margin-bottom: 1em;
 }
 
+.ads-wrapper {
+	margin: 1em 0;
+}
 ul.ads {
 	list-style: none;
 	padding: 0;
@@ -40,28 +40,48 @@ ul.ads {
 
 ul.ads li {
 	background: #fff;
-	height: 320px;
 	border: 1px solid #ededed;
 	margin-bottom: 2em;
+	position: relative;
+	-webkit-transition: all 1s;
+    transition: all 1s;	
 }
 
-ul.ads li a {
+ul.ads li a, ul.ads li a:active, ul.ads li a:visited, ul.ads li a:focus, ul.ads li a:hover {
 	text-decoration: none;
 	color: #000;
+	display: block;
 }
 
 ul.ads li:hover {
-	border-bottom: 5px solid #111;
+	background: #ededed;
+}
+
+ul.ads li img {
+	padding: 1em 0;
 }
 
 ul.ads li h2 {
-	font-size: 20px;
-	height: 60px;
+	font-size: 16px;
+	height: 36px;
 }
 
 ul.ads li p.description {
-	font-size: 14px;
+	font-size: 12px;
 	height: 80px;
+}
+
+ul.ads li p.price {
+	position: absolute;
+	padding: 0.2em;
+	margin: 0;
+	background: #111;
+	color: #fff;
+	bottom: -28px;
+	right: 0;
+	width: 100%;
+	height: 28px;
+	text-align: center;
 }
 
 @media (max-width: 992px) {
