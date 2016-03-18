@@ -8,15 +8,16 @@
 	<meta name="keywords" content="compras, vendas, pesquisas">
 	<meta name="author" content="Xavier Nunes">
     <link href="public/css/bootstrap.min.css" rel="stylesheet">
+	<link href="style.css" rel="stylesheet">
     <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->	
+		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
 <body>
 	<div class="container">
 		<header id="header" class="row">
-			<div class="col-md-12">
+			<div class="col-md-12 text-center">
 				<h1>Madeira.xyz</h1>
 				<p>Facilitamos as suas compras, vendas e pesquisas</p>
 			</div>
