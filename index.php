@@ -34,6 +34,24 @@
 				</ul>
 			</nav>
 		</header>
+		<div id="categories" class="row">
+			<div class="col-md-12">
+				<ul>
+					<li><a href="#">Bebé e Criança</a></li>
+					<li><a href="#">Lazer</a></li>
+					<li><a href="#">Telemóveis e Tablets</a></li>
+					<li><a href="#">Agricultura</a></li>
+					<li><a href="#">Desporto</a></li>
+					<li><a href="#">Moda</a></li>
+					<li><a href="#">Móveis, Casa e Jardim</a></li>
+					<li><a href="#">Tecnologia</a></li>
+					<li><a href="#">Carros, motos e barcos</a></li>
+					<li><a href="#">Imóveis</a></li>
+					<li><a href="#">Serviços</a></li>
+					<li><a href="#">Outras Vendas</a></li>
+				</ul>
+			</div>
+		</div>
 		<div id="content" role="page content">
 			<div class="row category-informatica">
 				<div class="col-md-12">
